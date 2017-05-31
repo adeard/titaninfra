@@ -1,0 +1,12 @@
+<VirtualHost *:80>  
+    DocumentRoot "D:/WEBAPPS/Public_html/Development/TPSOnline"
+    ServerName tpsonline.id
+    ServerAlias tpsonline.id
+    <Directory "D:/WEBAPPS/Public_html/Development/TPSOnline">
+        Options Indexes FollowSymLinks Includes ExecCGI
+        AllowOverride All
+        Order allow,deny
+        Allow from all
+		Require all granted
+   </Directory>
+</VirtualHost>

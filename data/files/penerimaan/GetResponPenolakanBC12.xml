@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<string xmlns="http://services.beacukai.go.id/">
+	<DOCUMENT>
+		<RESPONNP4>
+			<BC12>
+				<KD_KANTOR></KD_KANTOR>
+				<KD_TPS></KD_TPS>
+				<REF_NUMBER></REF_NUMBER>
+				<ALASAN></ALASAN>
+			</BC12>
+		</RESPONNP4>
+	</DOCUMENT>
+</string>

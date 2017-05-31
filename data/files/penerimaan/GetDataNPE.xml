@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<string xmlns="http://services.beacukai.go.id/">
+	<DOCUMENT>
+		<NPE>
+			<HEADER>
+				<CAR></CAR>
+				<NO_PEB></NO_PEB>
+				<TG_PEB></TG_PEB>
+				<NO_NPE></NO_NPE>
+				<TG_NPE></TG_NPE>
+				<KD_KPBC></KD_KPBC>
+				<NPWP_EKS></NPWP_EKS>
+				<NAMA_EKS></NAMA_EKS>
+				<NPWP_PPJK></NPWP_PPJK>
+				<NAMA_PPJK></NAMA_PPJK>
+				<ALAMAT_PPJK></ALAMAT_PPJK>
+				<JNS_ANGKUT></JNS_ANGKUT>
+				<NM_ANGKUT></NM_ANGKUT>
+				<NO_VOY_FLIGHT ></NO_VOY_FLIGHT >
+				<JML_CONT></JML_CONT>
+				<JML_KMS></JML_KMS>
+				<BRUTO></BRUTO>
+				<KD_KANTOR_MUAT></KD_KANTOR_MUAT>
+				<TPS_TUJUAN></TPS_TUJUAN>
+			</HEADER>
+			<DETIL>
+				<CONT>
+					<CAR></CAR>
+					<SERI_CONT></SERI_CONT>
+					<NO_CONT></NO_CONT>
+					<SIZE></SIZE>
+				</CONT>
+				<KMS>
+					<CAR></CAR>
+					<JNS_KMS></JNS_KMS>
+					<JML_KMS></JML_KMS>
+				</KMS>
+			</DETIL>
+		</NPE>
+	</DOCUMENT>
+</string>

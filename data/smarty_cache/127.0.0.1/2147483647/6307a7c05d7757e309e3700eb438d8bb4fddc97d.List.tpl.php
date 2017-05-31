@@ -1,0 +1,155 @@
+<?php
+/* Smarty version 3.1.30, created on 2017-05-30 09:44:43
+  from "C:\xampp\htdocs\TPSOnline\application\view\default\Admin\Admin\Activity\List.tpl" */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.30',
+  'unifunc' => 'content_592cdc9b3dcf29_62146059',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    '9c4894c3c3742b9850d271fa1fde24ad62597945' => 
+    array (
+      0 => 'C:\\xampp\\htdocs\\TPSOnline\\application\\view\\default\\Admin\\Admin\\Activity\\List.tpl',
+      1 => 1458321744,
+      2 => 'file',
+    ),
+  ),
+  'cache_lifetime' => 0,
+),true)) {
+function content_592cdc9b3dcf29_62146059 (Smarty_Internal_Template $_smarty_tpl) {
+?>
+<!-- INITIALISATION PATH THEME -->
+<!-- END INITIALISATION PATH THEME -->
+
+<!-- BEGIN PAGE HEADER-->
+<!-- INITIALISATION PATH THEME -->
+<!-- END INITIALISATION PATH THEME -->
+
+<script src="/public/default/assets/global/plugins/jquery-ui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/public/default/assets/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+<!-- BEGIN SWEET ALERT -->
+<link href="/public/default/assets/global/plugins/sweetalert/sweetalert.css" rel="stylesheet" type="text/css"/>
+<script src="/public/default/assets/global/plugins/sweetalert/sweetalert-dev.js"></script>
+<!-- END SWEET ALERT -->
+    
+<!-- BEGIN TABLE JS -->
+	<!-- BEGIN SELECT2 -->
+	<link rel="stylesheet" type="text/css" href="/public/default/assets/global/plugins/select2/select2.css"/>
+    <script type="text/javascript" src="/public/default/assets/global/plugins/select2/select2.min.js"></script>
+    <!-- END SELECT2 -->
+    
+    <!-- BEGIN DATATABLES -->
+    <link rel="stylesheet" type="text/css" href="/public/default/assets/global/plugins/datatables/extensions/Scroller/css/dataTables.scroller.min.css"/>
+    <link rel="stylesheet" type="text/css" href="/public/default/assets/global/plugins/datatables/extensions/ColReorder/css/dataTables.colReorder.min.css"/>
+    <link rel="stylesheet" type="text/css" href="/public/default/assets/global/plugins/datatables/plugins/bootstrap/dataTables.bootstrap.css"/>
+    
+    <script type="text/javascript" src="/public/default/assets/global/plugins/datatables/media/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="/public/default/assets/global/plugins/datatables/extensions/TableTools/js/dataTables.tableTools.min.js"></script>
+    <script type="text/javascript" src="/public/default/assets/global/plugins/datatables/extensions/ColReorder/js/dataTables.colReorder.min.js"></script>
+    <script type="text/javascript" src="/public/default/assets/global/plugins/datatables/extensions/Scroller/js/dataTables.scroller.min.js"></script>
+    <script type='text/javascript' src='/public/default/assets/global/plugins/datatables/plugins/bootstrap/dataTables.bootstrap.js'></script>
+    <script type='text/javascript' src='/public/default/assets/global/plugins/datatables/plugins/bootstrap/fnReloadAjax.js'></script>
+    <script type='text/javascript' src='/public/default/assets/admin/pages/scripts/table-advanced.js'></script>
+    <!-- END DATATABLE -->
+
+    <script type='text/javascript' src='/public/default/assets/admin/pages/scripts/custom.js'></script>
+    
+    
+    <script>
+    jQuery(document).ready(function() {
+       Custom.init();
+       TableAdvanced.init();
+    });
+    </script>
+    
+<!-- END TABLE JS -->
+    
+<!-- BEGIN FORM JS -->
+<!-- END FORM JS -->
+<style type="text/css">
+.page-breadcrumb li.active a{
+	text-decoration: none;
+	cursor:auto;
+}
+</style>
+<div class="page-bar">
+    <ul class="page-breadcrumb">
+                                    <li>
+                                        <i class="fa fa-home"></i>
+                    <a href="/main">Home</a>
+                    <i class="fa fa-angle-right"></i>
+                                    </li>
+                                            	                <li class='active'>
+                    <a href="javascript:void(0)">User Activity</a>
+                </li>
+                                        </ul>
+</div>
+
+<!-- END PAGE HEADER-->
+
+<style type="text/css">
+	.dataTables_filter input{
+		width: 100%;
+		min-width:250px;
+		border: 1px solid #e5e5e5;
+		padding: 10px 10px;
+		height:35px;
+	}
+	
+	input.checkboxes{
+		margin-left:5px;
+	}
+</style>
+
+<h3 class="page-title"></h3>
+
+<!-- BEGIN PAGE CONTENT-->  
+<div class="row">
+	<div class="col-md-12">
+		<!-- BEGIN EXAMPLE TABLE PORTLET-->
+		<div class="portlet box green-haze">
+			<div class="portlet-title">
+				<div class="caption">
+					User Activity
+				</div>
+				<div class="actions">
+					
+				</div>
+			</div>
+			<div class="portlet-body">
+				<div class="table-container">
+					<table 	cellpadding="0" 
+							cellspacing="0" 
+							border="0" 
+							
+							class="table table-striped table-bordered table-hover" 
+							id="activityTable">
+					<thead>
+					<tr role="row" class="heading">
+						<th>No</th>
+						<th>Username</th>
+						<th>Organisasi</th>
+						<th>Group</th>
+						<th>Nama</th>
+						<th>IP Address</th>
+						<th>OS</th>
+						<th>Browser</th>
+						<th>Login</th>
+						<th>Logout</th>
+						<th>Status</th>
+					</tr>
+					</thead>
+					
+					<tbody></tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+		<!-- END EXAMPLE TABLE PORTLET-->
+	</div>
+</div>
+<!-- END PAGE CONTENT-->
+<?php }
+}
