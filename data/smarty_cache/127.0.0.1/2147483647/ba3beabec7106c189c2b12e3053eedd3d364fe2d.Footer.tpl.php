@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.30, created on 2017-06-02 00:11:14
+/* Smarty version 3.1.30, created on 2017-06-02 00:21:40
   from "C:\xampp\htdocs\TPSOnline\application\view\default\Layout\Footer.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_59304ab2e67c12_70745701',
+  'unifunc' => 'content_59304d2459f756_28839296',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 0,
 ),true)) {
-function content_59304ab2e67c12_70745701 (Smarty_Internal_Template $_smarty_tpl) {
+function content_59304d2459f756_28839296 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
     	</div>
 	</div>

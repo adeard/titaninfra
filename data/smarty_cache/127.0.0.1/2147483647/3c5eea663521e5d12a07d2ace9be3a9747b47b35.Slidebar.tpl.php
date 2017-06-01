@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.30, created on 2017-06-02 00:11:14
+/* Smarty version 3.1.30, created on 2017-06-02 00:21:40
   from "C:\xampp\htdocs\TPSOnline\application\view\default\Layout\Slidebar.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_59304ab2e40590_72407075',
+  'unifunc' => 'content_59304d24575472_74451845',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 0,
 ),true)) {
-function content_59304ab2e40590_72407075 (Smarty_Internal_Template $_smarty_tpl) {
+function content_59304d24575472_74451845 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
 <!-- BEGIN SIDEBAR -->

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.30, created on 2017-06-02 00:11:14
+/* Smarty version 3.1.30, created on 2017-06-02 00:21:40
   from "C:\xampp\htdocs\TPSOnline\application\view\default\Layout\Layout.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_59304ab2d3ed09_62928550',
+  'unifunc' => 'content_59304d2446c9d7_22681722',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_59304ab2d3ed09_62928550 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '2842859304ab2d14ef6_69201774';
+function content_59304d2446c9d7_22681722 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '1894859304d24442397_54279508';
 ?>
 <!-- INITIALISATION PATH THEME -->
 <?php $_smarty_tpl->_assignInScope('PATH_THEMES', ((string)$_smarty_tpl->tpl_vars['this']->value->basePath())."/public/".((string)@constant('VIEW_THEMES')));
