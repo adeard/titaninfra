@@ -7,9 +7,9 @@
 			<div class="menu-toggler sidebar-toggler"></div>
             
             <a href="{$this->basePath()}/main" style="margin-top:7px; margin-left:10px; font-size:21px">
-				<img class="logo-default" 
-                	 style="margin-left:5px; margin-top: -5px" 
-                     src="{$this->basePath()}/public/{$smarty.const.VIEW_THEMES}/img/logo.png" 
+				<img class="logo-default"
+                	 style="margin-left:5px; margin-top: -5px"
+                     src="{$this->basePath()}/public/{$smarty.const.VIEW_THEMES}/img/logo.png"
                 	 alt="" />
             	
 			</a>
@@ -23,6 +23,8 @@
         
 		<!-- BEGIN TOP NAVIGATION MENU -->
 		<div class="top-menu">
+			<button type="button" name="button" class="btn btn-lg btn-danger" style="margin-top:2px;"><b>ALERT</b></button>
+			
 			<ul class="nav navbar-nav pull-right">
 				<!-- BEGIN USER LOGIN DROPDOWN -->
 				<li class="dropdown dropdown-user">
@@ -34,7 +36,7 @@
                     {/if}
                                 
 					<span class="username username-hide-on-mobile">
-						{$userinfo->NAMADEPAN} {$userinfo->NAMABELAKANG}  
+						{$userinfo->NAMADEPAN} {$userinfo->NAMABELAKANG}
                     </span>
 					<i class="fa fa-angle-down"></i>
 					</a>

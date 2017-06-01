@@ -1,24 +1,24 @@
 <?php
-/* Smarty version 3.1.30, created on 2017-06-01 23:33:37
+/* Smarty version 3.1.30, created on 2017-06-02 00:01:34
   from "C:\xampp\htdocs\TPSOnline\application\view\default\Layout\Slidebar.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_593041e19ced70_04859140',
+  'unifunc' => 'content_5930486ebb2ff7_08137815',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '41f6ee131b3763ae7f4ac412539fd37bd7fccd34' => 
     array (
       0 => 'C:\\xampp\\htdocs\\TPSOnline\\application\\view\\default\\Layout\\Slidebar.tpl',
-      1 => 1482909524,
+      1 => 1496336169,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 0,
 ),true)) {
-function content_593041e19ced70_04859140 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5930486ebb2ff7_08137815 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
 <!-- BEGIN SIDEBAR -->
@@ -40,8 +40,7 @@ function content_593041e19ced70_04859140 (Smarty_Internal_Template $_smarty_tpl)
            
                                                                                                     
                                                                                                             
-                                                                                                               	 
-                
+                                                                                                               	                
                 <li class="">
                     <a href="javascript:;" class="">
                         <i class="icon-settings"></i>
@@ -53,8 +52,7 @@ function content_593041e19ced70_04859140 (Smarty_Internal_Template $_smarty_tpl)
                     	                        	                                                                                                                      	
                                                                                                                             
                                                                                                         
-                                                                                                                 
-                                                                            			<li class="">
+                                                                                                                                                                                            			<li class="">
                                 <a data-href="/admin/user" class="ajaxify">
                                     <i class="icon-user "></i>
                                     <span class="title">User</span>
@@ -63,8 +61,7 @@ function content_593041e19ced70_04859140 (Smarty_Internal_Template $_smarty_tpl)
                                 </a>
                                                             </li>
                             <!--
-                                                                                          
-                            
+                                                                                                                    
                             <li class="">
                                 <a href="/admin/user">
                                     <i class="icon-user "></i>
@@ -75,8 +72,7 @@ function content_593041e19ced70_04859140 (Smarty_Internal_Template $_smarty_tpl)
                                                 	                                                                                                                      	
                                                                                                                             
                                                                                                         
-                                                                                                                 
-                                                                            			<li class="">
+                                                                                                                                                                                            			<li class="">
                                 <a data-href="/admin/group" class="ajaxify">
                                     <i class="icon-users "></i>
                                     <span class="title">Group</span>
@@ -85,8 +81,7 @@ function content_593041e19ced70_04859140 (Smarty_Internal_Template $_smarty_tpl)
                                 </a>
                                                             </li>
                             <!--
-                                                                                          
-                            
+                                                                                                                    
                             <li class="">
                                 <a href="/admin/group">
                                     <i class="icon-users "></i>
@@ -97,8 +92,7 @@ function content_593041e19ced70_04859140 (Smarty_Internal_Template $_smarty_tpl)
                                                 	                                                                                                                      	
                                                                                                                             
                                                                                                         
-                                                                                                                 
-                                                                            			<li class="">
+                                                                                                                                                                                            			<li class="">
                                 <a data-href="/admin/perusahaan" class="ajaxify">
                                     <i class="fa fa-building "></i>
                                     <span class="title">Perusahaan</span>
@@ -107,8 +101,7 @@ function content_593041e19ced70_04859140 (Smarty_Internal_Template $_smarty_tpl)
                                 </a>
                                                             </li>
                             <!--
-                                                                                          
-                            
+                                                                                                                    
                             <li class="">
                                 <a href="/admin/perusahaan">
                                     <i class="fa fa-building "></i>
@@ -119,8 +112,7 @@ function content_593041e19ced70_04859140 (Smarty_Internal_Template $_smarty_tpl)
                                                 	                                                                                                                      	
                                                                                                                             
                                                                                                         
-                                                                                                                 
-                                                                            			<li class="">
+                                                                                                                                                                                            			<li class="">
                                 <a data-href="/admin/target" class="ajaxify">
                                     <i class="icon-rocket"></i>
                                     <span class="title">Target</span>
@@ -129,8 +121,7 @@ function content_593041e19ced70_04859140 (Smarty_Internal_Template $_smarty_tpl)
                                 </a>
                                                             </li>
                             <!--
-                                                                                          
-                            
+                                                                                                                    
                             <li class="">
                                 <a href="/admin/target">
                                     <i class="icon-rocket"></i>
@@ -141,8 +132,7 @@ function content_593041e19ced70_04859140 (Smarty_Internal_Template $_smarty_tpl)
                                                 	                                                                                                                      	
                                                                                                                             
                                                                                                         
-                                                                                                                 
-                                                                            			<li class="">
+                                                                                                                                                                                            			<li class="">
                                 <a data-href="/admin/transaksi" class="ajaxify">
                                     <i class="icon-docs"></i>
                                     <span class="title">Transaksi</span>
@@ -151,8 +141,7 @@ function content_593041e19ced70_04859140 (Smarty_Internal_Template $_smarty_tpl)
                                 </a>
                                                             </li>
                             <!--
-                                                                                          
-                            
+                                                                                                                    
                             <li class="">
                                 <a href="/admin/transaksi">
                                     <i class="icon-docs"></i>
@@ -163,8 +152,7 @@ function content_593041e19ced70_04859140 (Smarty_Internal_Template $_smarty_tpl)
                                                 	                                                                                                                      	
                                                                                                                             
                                                                                                         
-                                                                                                                 
-                                                                            			<li class="">
+                                                                                                                                                                                            			<li class="">
                                 <a data-href="/admin/vehicle" class="ajaxify">
                                     <i class="fa fa-truck"></i>
                                     <span class="title">Vehicle</span>
@@ -173,8 +161,7 @@ function content_593041e19ced70_04859140 (Smarty_Internal_Template $_smarty_tpl)
                                 </a>
                                                             </li>
                             <!--
-                                                                                          
-                            
+                                                                                                                    
                             <li class="">
                                 <a href="/admin/vehicle">
                                     <i class="fa fa-truck"></i>

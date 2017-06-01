@@ -1,24 +1,24 @@
 <?php
-/* Smarty version 3.1.30, created on 2017-06-01 23:33:37
+/* Smarty version 3.1.30, created on 2017-06-02 00:01:34
   from "C:\xampp\htdocs\TPSOnline\application\view\default\Layout\Header.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_593041e18a9f52_08100169',
+  'unifunc' => 'content_5930486eadb2c4_78744098',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '04e60fdc407a4e3436fea25e6350b391bb909e49' => 
     array (
       0 => 'C:\\xampp\\htdocs\\TPSOnline\\application\\view\\default\\Layout\\Header.tpl',
-      1 => 1482910081,
+      1 => 1496336494,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 0,
 ),true)) {
-function content_593041e18a9f52_08100169 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5930486eadb2c4_78744098 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!-- BEGIN HEADER -->
 <div class="page-header navbar navbar-fixed-top">
@@ -29,9 +29,9 @@ function content_593041e18a9f52_08100169 (Smarty_Internal_Template $_smarty_tpl)
 			<div class="menu-toggler sidebar-toggler"></div>
             
             <a href="/main" style="margin-top:7px; margin-left:10px; font-size:21px">
-				<img class="logo-default" 
-                	 style="margin-left:5px; margin-top: -5px" 
-                     src="/public/default/img/logo.png" 
+				<img class="logo-default"
+                	 style="margin-left:5px; margin-top: -5px"
+                     src="/public/default/img/logo.png"
                 	 alt="" />
             	
 			</a>
@@ -45,6 +45,8 @@ function content_593041e18a9f52_08100169 (Smarty_Internal_Template $_smarty_tpl)
         
 		<!-- BEGIN TOP NAVIGATION MENU -->
 		<div class="top-menu">
+			<button type="button" name="button" class="btn btn-lg btn-danger" style="margin-top:2px;"><b>ALERT</b></button>
+			
 			<ul class="nav navbar-nav pull-right">
 				<!-- BEGIN USER LOGIN DROPDOWN -->
 				<li class="dropdown dropdown-user">
@@ -52,7 +54,7 @@ function content_593041e18a9f52_08100169 (Smarty_Internal_Template $_smarty_tpl)
                                         <img class="img-circle" src="/data/uploads/userfiles/1/account/2102152248001.jpg" alt="" />
                                                     
 					<span class="username username-hide-on-mobile">
-						Darto   
+						Darto 
                     </span>
 					<i class="fa fa-angle-down"></i>
 					</a>

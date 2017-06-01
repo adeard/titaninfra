@@ -49,7 +49,7 @@
                             {assign var='arrowParentMenu'	value= '<span class=""></span>'}
                         {/if}
                     {/if}
-               	{/if} 
+               	{/if}
                 
                 <li class="{$activeParentMenu}">
                     <a href="{$this->basePath()}{$Routes}" class="{$Ajaxify}">
@@ -91,7 +91,7 @@
                                         {assign var='activeSubMenu'	value= 'active'}
                                     {else}
                                         {assign var='activeSubMenu'	value= ''}
-                                    {/if} 
+                                    {/if}
                                 {/if}
                             {/if}
                 			<li class="{$activeSubMenu}">
@@ -116,7 +116,7 @@
                                         {assign var='classActive'	value= 'active'}
                                     {else}
                                         {assign var='classActive'	value= ''}
-                                    {/if}  
+                                    {/if}
                                     
                                     <li class="{$classActive}">
                                         <a data-href="{$this->basePath()}{$Routes}" class="{$Ajaxify}">
@@ -133,7 +133,7 @@
                                 {assign var='classActive'	value= 'active'}
                             {else}
                                 {assign var='classActive'	value= ''}
-                            {/if}  
+                            {/if}
                             
                             <li class="{$classActive}">
                                 <a href="{$Routes}">

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.30, created on 2017-06-01 23:33:37
+/* Smarty version 3.1.30, created on 2017-06-02 00:01:34
   from "C:\xampp\htdocs\TPSOnline\application\view\default\Layout\Header.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_593041e1899408_08144562',
+  'unifunc' => 'content_5930486eac86d9_75322539',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '04e60fdc407a4e3436fea25e6350b391bb909e49' => 
     array (
       0 => 'C:\\xampp\\htdocs\\TPSOnline\\application\\view\\default\\Layout\\Header.tpl',
-      1 => 1482910081,
+      1 => 1496336494,
       2 => 'file',
     ),
   ),
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_593041e1899408_08144562 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '26333593041e18602d0_42266728';
+function content_5930486eac86d9_75322539 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '273455930486eaa50d3_36318688';
 ?>
 <!-- BEGIN HEADER -->
 <div class="page-header navbar navbar-fixed-top">
@@ -33,11 +33,11 @@ $_smarty_tpl->compiled->nocache_hash = '26333593041e18602d0_42266728';
             
             <a href="<?php echo $_smarty_tpl->tpl_vars['this']->value->basePath();?>
 /main" style="margin-top:7px; margin-left:10px; font-size:21px">
-				<img class="logo-default" 
-                	 style="margin-left:5px; margin-top: -5px" 
+				<img class="logo-default"
+                	 style="margin-left:5px; margin-top: -5px"
                      src="<?php echo $_smarty_tpl->tpl_vars['this']->value->basePath();?>
 /public/<?php echo @constant('VIEW_THEMES');?>
-/img/logo.png" 
+/img/logo.png"
                 	 alt="" />
             	
 			</a>
@@ -51,6 +51,8 @@ $_smarty_tpl->compiled->nocache_hash = '26333593041e18602d0_42266728';
         
 		<!-- BEGIN TOP NAVIGATION MENU -->
 		<div class="top-menu">
+			<button type="button" name="button" class="btn btn-lg btn-danger" style="margin-top:2px;"><b>ALERT</b></button>
+			
 			<ul class="nav navbar-nav pull-right">
 				<!-- BEGIN USER LOGIN DROPDOWN -->
 				<li class="dropdown dropdown-user">
@@ -70,7 +72,7 @@ echo @constant('IMAGES_DIR');?>
 					<span class="username username-hide-on-mobile">
 						<?php echo $_smarty_tpl->tpl_vars['userinfo']->value->NAMADEPAN;?>
  <?php echo $_smarty_tpl->tpl_vars['userinfo']->value->NAMABELAKANG;?>
-  
+
                     </span>
 					<i class="fa fa-angle-down"></i>
 					</a>
