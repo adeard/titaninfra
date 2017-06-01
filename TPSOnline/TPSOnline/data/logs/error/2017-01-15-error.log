@@ -1,0 +1,52 @@
+2017-01-15T00:02:40+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\ServiceManager.php:555 Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for Penerimaan\Permohonanplp\Model\PermohonanplpdetailTable (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-15T00:03:04+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\ServiceManager.php:555 Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for Penerimaan\Permohonanplp\Model\PermohonanplpdetailTable (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-15T00:07:06+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\ServiceManager.php:555 Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for Penerimaan\Persetujuanplp\Model\PermohonanplpdetailTable (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-15T00:07:25+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\ServiceManager.php:555 Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for Penerimaan\Persetujuanplp\Model\PermohonanplpdetailTable (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-15T00:07:36+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\ServiceManager.php:555 Zend\ServiceManager\ServiceManager::get was unable to fetch or create an instance for Penerimaan\Persetujuanplp\Model\PermohonanplpdetailTable (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-15T21:15:40+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\AbstractPluginManager.php:195 Zend\Mvc\Controller\ControllerManager::createFromInvokable: failed retrieving "penerimaanpersetujuanplpcontrollerpersetujuanplpasalkmsdetail(alias: Penerimaan\Persetujuanplp\Controller\Persetujuanplpasalkmsdetail)" via invokable class "Penerimaan\Persetujuanplp\Controller\PersetujuanplpasalkmsdetailController"; class does not exist (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-15T21:18:09+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\AbstractPluginManager.php:195 Zend\Mvc\Controller\ControllerManager::createFromInvokable: failed retrieving "penerimaanpersetujuanplpcontrollerpersetujuanplpasalkmsdetail(alias: Penerimaan\Persetujuanplp\Controller\Persetujuanplpasalkmsdetail)" via invokable class "Penerimaan\Persetujuanplp\Controller\PersetujuanplpasalkmsdetailController"; class does not exist (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-15T21:32:26+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\AbstractPluginManager.php:195 Zend\Mvc\Controller\ControllerManager::createFromInvokable: failed retrieving "penerimaanpersetujuanplpcontrollerpersetujuanplpasalkmsdetail(alias: Penerimaan\Persetujuanplp\Controller\Persetujuanplpasalkmsdetail)" via invokable class "Penerimaan\Persetujuanplp\Controller\PersetujuanplpasalkmsdetailController"; class does not exist (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-15T21:32:56+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\AbstractPluginManager.php:195 Zend\Mvc\Controller\ControllerManager::createFromInvokable: failed retrieving "penerimaanpersetujuanplpcontrollerpersetujuanplpasalkmsdetail(alias: Penerimaan\Persetujuanplp\Controller\Persetujuanplpasalkmsdetail)" via invokable class "Penerimaan\Persetujuanplp\Controller\PersetujuanplpasalkmsdetailController"; class does not exist (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-15T21:33:04+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\AbstractPluginManager.php:195 Zend\Mvc\Controller\ControllerManager::createFromInvokable: failed retrieving "penerimaanpersetujuanplpcontrollerpersetujuanplpasalkmsdetail(alias: Penerimaan\Persetujuanplp\Controller\Persetujuanplpasalkmsdetail)" via invokable class "Penerimaan\Persetujuanplp\Controller\PersetujuanplpasalkmsdetailController"; class does not exist (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-15T21:33:39+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\AbstractPluginManager.php:195 Zend\Mvc\Controller\ControllerManager::createFromInvokable: failed retrieving "penerimaanpersetujuanplpcontrollerpersetujuanplpasalkmsdetail(alias: Penerimaan\Persetujuanplp\Controller\Persetujuanplpasalkmsdetail)" via invokable class "Penerimaan\Persetujuanplp\Controller\PersetujuanplpasalkmsdetailController"; class does not exist (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-15T21:34:08+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\AbstractPluginManager.php:195 Zend\Mvc\Controller\ControllerManager::createFromInvokable: failed retrieving "penerimaanpersetujuanplpcontrollerpersetujuanplpasalkmsdetail(alias: Penerimaan\Persetujuanplp\Controller\Persetujuanplpasalkmsdetail)" via invokable class "Penerimaan\Persetujuanplp\Controller\PersetujuanplpasalkmsdetailController"; class does not exist (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-15T21:34:54+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\AbstractPluginManager.php:195 Zend\Mvc\Controller\ControllerManager::createFromInvokable: failed retrieving "penerimaanpersetujuanplpcontrollerpersetujuanplpasalkmsdetail(alias: Penerimaan\Persetujuanplp\Controller\Persetujuanplpasalkmsdetail)" via invokable class "Penerimaan\Persetujuanplp\Controller\PersetujuanplpasalkmsdetailController"; class does not exist (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-15T21:36:18+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\AbstractPluginManager.php:195 Zend\Mvc\Controller\ControllerManager::createFromInvokable: failed retrieving "penerimaanpersetujuanplpcontrollerpersetujuanplpasalkmsdetail(alias: Penerimaan\Persetujuanplp\Controller\Persetujuanplpasalkmsdetail)" via invokable class "Penerimaan\Persetujuanplp\Controller\PersetujuanplpasalkmsdetailController"; class does not exist (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-15T21:38:05+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\AbstractPluginManager.php:195 Zend\Mvc\Controller\ControllerManager::createFromInvokable: failed retrieving "penerimaanpersetujuanplpcontrollerpersetujuanplpasalkmsdetail(alias: Penerimaan\Persetujuanplp\Controller\Persetujuanplpasalkmsdetail)" via invokable class "Penerimaan\Persetujuanplp\Controller\PersetujuanplpasalkmsdetailController"; class does not exist (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-15T21:46:03+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\AbstractPluginManager.php:195 Zend\Mvc\Controller\ControllerManager::createFromInvokable: failed retrieving "penerimaanpersetujuanplpcontrollerpersetujuanplpasalkmsdetail(alias: Penerimaan\Persetujuanplp\Controller\Persetujuanplpasalkmsdetail)" via invokable class "Penerimaan\Persetujuanplp\Controller\PersetujuanplpasalkmsdetailController"; class does not exist (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-15T21:50:05+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\AbstractPluginManager.php:195 Zend\Mvc\Controller\ControllerManager::createFromInvokable: failed retrieving "penerimaanpersetujuanplpcontrollerpersetujuanplpasalkmsdetail(alias: Penerimaan\Persetujuanplp\Controller\Persetujuanplpasalkmsdetail)" via invokable class "Penerimaan\Persetujuanplp\Controller\PersetujuanplpasalkmsdetailController"; class does not exist (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-15T21:51:06+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\AbstractPluginManager.php:195 Zend\Mvc\Controller\ControllerManager::createFromInvokable: failed retrieving "penerimaanpersetujuanplpcontrollerpersetujuanplpasalkmsdetail(alias: Penerimaan\Persetujuanplp\Controller\Persetujuanplpasalkmsdetail)" via invokable class "Penerimaan\Persetujuanplp\Controller\PersetujuanplpasalkmsdetailController"; class does not exist (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-15T22:44:53+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Db\Adapter\Driver\Pdo\Statement.php:244 Statement could not be executed (42P01 - 7 - ERROR:  relation "tps.SPPBPIB" does not exist
+LINE 1: ...L_AWB", "a"."IDPERUSAHAAN" AS "IDPERUSAHAAN" FROM "tps"."SPP...
+                                                             ^) (0) [Zend\Db\Adapter\Exception\InvalidQueryException]
+
+2017-01-15T22:44:53+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Db\Adapter\Driver\Pdo\Statement.php:239 SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "tps.SPPBPIB" does not exist
+LINE 1: ...L_AWB", "a"."IDPERUSAHAAN" AS "IDPERUSAHAAN" FROM "tps"."SPP...
+                                                             ^ (42) [PDOException]
+
+2017-01-15T22:44:58+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Db\Adapter\Driver\Pdo\Statement.php:244 Statement could not be executed (42P01 - 7 - ERROR:  relation "tps.SPPBPIB" does not exist
+LINE 1: ...L_AWB", "a"."IDPERUSAHAAN" AS "IDPERUSAHAAN" FROM "tps"."SPP...
+                                                             ^) (0) [Zend\Db\Adapter\Exception\InvalidQueryException]
+
+2017-01-15T22:44:58+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Db\Adapter\Driver\Pdo\Statement.php:239 SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "tps.SPPBPIB" does not exist
+LINE 1: ...L_AWB", "a"."IDPERUSAHAAN" AS "IDPERUSAHAAN" FROM "tps"."SPP...
+                                                             ^ (42) [PDOException]
+

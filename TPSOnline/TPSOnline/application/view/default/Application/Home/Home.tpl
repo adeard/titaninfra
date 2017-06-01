@@ -1,0 +1,2 @@
+<br />
+INDEX SMARTY ( {$message} )

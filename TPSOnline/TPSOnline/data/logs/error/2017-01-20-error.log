@@ -1,0 +1,48 @@
+2017-01-20T23:11:28+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\AbstractPluginManager.php:195 Zend\Mvc\Controller\ControllerManager::createFromInvokable: failed retrieving "penerimaanpembatalanplpcontrollerpembatalanplpasal(alias: Penerimaan\Pembatalanplp\Controller\Pembatalanplpasal)" via invokable class "Penerimaan\Pembatalanplp\Controller\PembatalanplpasalController"; class does not exist (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-20T23:11:45+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\AbstractPluginManager.php:195 Zend\Mvc\Controller\ControllerManager::createFromInvokable: failed retrieving "penerimaanpembatalanplpcontrollerpembatalanplpasal(alias: Penerimaan\Pembatalanplp\Controller\Pembatalanplpasal)" via invokable class "Penerimaan\Pembatalanplp\Controller\PembatalanplpasalController"; class does not exist (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-20T23:12:14+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\AbstractPluginManager.php:195 Zend\Mvc\Controller\ControllerManager::createFromInvokable: failed retrieving "penerimaanpembatalanplpcontrollerpembatalanplpasal(alias: Penerimaan\Pembatalanplp\Controller\Pembatalanplpasal)" via invokable class "Penerimaan\Pembatalanplp\Controller\PembatalanplpasalController"; class does not exist (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-20T23:12:52+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\ServiceManager\AbstractPluginManager.php:195 Zend\Mvc\Controller\ControllerManager::createFromInvokable: failed retrieving "penerimaanpembatalanplpcontrollerpembatalanplpasal(alias: Penerimaan\Pembatalanplp\Controller\Pembatalanplpasal)" via invokable class "Penerimaan\Pembatalanplp\Controller\PembatalanplpasalController"; class does not exist (0) [Zend\ServiceManager\Exception\ServiceNotFoundException]
+
+2017-01-20T23:20:25+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Db\Adapter\Driver\Pdo\Statement.php:244 Statement could not be executed (42703 - 7 - ERROR:  column a.TGL_BATAL_PLP does not exist
+LINE 1: ...EF_NUMBER", "a"."NO_BATAL_PLP" AS "NO_BATAL_PLP", "a"."TGL_B...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "a.TGL_ BATAL_PLP".) (0) [Zend\Db\Adapter\Exception\InvalidQueryException]
+
+2017-01-20T23:20:25+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Db\Adapter\Driver\Pdo\Statement.php:239 SQLSTATE[42703]: Undefined column: 7 ERROR:  column a.TGL_BATAL_PLP does not exist
+LINE 1: ...EF_NUMBER", "a"."NO_BATAL_PLP" AS "NO_BATAL_PLP", "a"."TGL_B...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "a.TGL_ BATAL_PLP". (42703) [PDOException]
+
+2017-01-20T23:39:13+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Db\Adapter\Driver\Pdo\Statement.php:244 Statement could not be executed (42703 - 7 - ERROR:  column a.TGL_BATAL_PLP does not exist
+LINE 1: ...EF_NUMBER", "a"."NO_BATAL_PLP" AS "NO_BATAL_PLP", "a"."TGL_B...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "a.TGL_ BATAL_PLP".) (0) [Zend\Db\Adapter\Exception\InvalidQueryException]
+
+2017-01-20T23:39:13+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Db\Adapter\Driver\Pdo\Statement.php:239 SQLSTATE[42703]: Undefined column: 7 ERROR:  column a.TGL_BATAL_PLP does not exist
+LINE 1: ...EF_NUMBER", "a"."NO_BATAL_PLP" AS "NO_BATAL_PLP", "a"."TGL_B...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "a.TGL_ BATAL_PLP". (42703) [PDOException]
+
+2017-01-20T23:39:28+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Db\Adapter\Driver\Pdo\Statement.php:244 Statement could not be executed (42703 - 7 - ERROR:  column a.TGL_BATAL_PLP does not exist
+LINE 1: ...EF_NUMBER", "a"."NO_BATAL_PLP" AS "NO_BATAL_PLP", "a"."TGL_B...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "a.TGL_ BATAL_PLP".) (0) [Zend\Db\Adapter\Exception\InvalidQueryException]
+
+2017-01-20T23:39:28+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Db\Adapter\Driver\Pdo\Statement.php:239 SQLSTATE[42703]: Undefined column: 7 ERROR:  column a.TGL_BATAL_PLP does not exist
+LINE 1: ...EF_NUMBER", "a"."NO_BATAL_PLP" AS "NO_BATAL_PLP", "a"."TGL_B...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "a.TGL_ BATAL_PLP". (42703) [PDOException]
+
+2017-01-20T23:39:42+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Db\Adapter\Driver\Pdo\Statement.php:244 Statement could not be executed (42703 - 7 - ERROR:  column a.TGL_BATAL_PLP does not exist
+LINE 1: ...EF_NUMBER", "a"."NO_BATAL_PLP" AS "NO_BATAL_PLP", "a"."TGL_B...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "a.TGL_ BATAL_PLP".) (0) [Zend\Db\Adapter\Exception\InvalidQueryException]
+
+2017-01-20T23:39:42+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Db\Adapter\Driver\Pdo\Statement.php:239 SQLSTATE[42703]: Undefined column: 7 ERROR:  column a.TGL_BATAL_PLP does not exist
+LINE 1: ...EF_NUMBER", "a"."NO_BATAL_PLP" AS "NO_BATAL_PLP", "a"."TGL_B...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "a.TGL_ BATAL_PLP". (42703) [PDOException]
+

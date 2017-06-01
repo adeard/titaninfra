@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<string xmlns="http://services.beacukai.go.id/">
+	<DOCUMENT>
+		<RESPON>
+			<HEADER>
+				<NO_BC11></NO_BC11>
+				<TGL_BC11></TGL_BC11>
+				<NO_CONT></NO_CONT>
+				<NO_SEGEL></NO_SEGEL>
+			</HEADER>
+			
+			<DETIL>
+			<POS>
+				<NO_POS></NO_POS>
+				<CONSIGNEE></CONSIGNEE>
+				<UR_JNS_BARANG></UR_JNS_BARANG>
+				<JML_KMS></JML_KMS>
+				<JNS_KMS></JNS_KMS>
+			</POS>
+			</DETIL>
+		</RESPON>
+	</DOCUMENT>
+</string>

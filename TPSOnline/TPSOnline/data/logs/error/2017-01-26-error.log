@@ -1,0 +1,24 @@
+2017-01-26T23:10:17+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Db\Adapter\Driver\Pdo\Statement.php:244 Statement could not be executed (42P01 - 7 - ERROR:  relation "tps.SAR_ANGKUT" does not exist
+LINE 1: ..."d"."KD_DOK_INOUT" = "a"."KD_DOK_INOUT" LEFT JOIN "tps"."SAR...
+                                                             ^) (0) [Zend\Db\Adapter\Exception\InvalidQueryException]
+
+2017-01-26T23:10:17+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Db\Adapter\Driver\Pdo\Statement.php:239 SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "tps.SAR_ANGKUT" does not exist
+LINE 1: ..."d"."KD_DOK_INOUT" = "a"."KD_DOK_INOUT" LEFT JOIN "tps"."SAR...
+                                                             ^ (42) [PDOException]
+
+2017-01-26T23:10:21+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Db\Adapter\Driver\Pdo\Statement.php:244 Statement could not be executed (42P01 - 7 - ERROR:  relation "tps.SAR_ANGKUT" does not exist
+LINE 1: ..."d"."KD_DOK_INOUT" = "a"."KD_DOK_INOUT" LEFT JOIN "tps"."SAR...
+                                                             ^) (0) [Zend\Db\Adapter\Exception\InvalidQueryException]
+
+2017-01-26T23:10:21+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Db\Adapter\Driver\Pdo\Statement.php:239 SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "tps.SAR_ANGKUT" does not exist
+LINE 1: ..."d"."KD_DOK_INOUT" = "a"."KD_DOK_INOUT" LEFT JOIN "tps"."SAR...
+                                                             ^ (42) [PDOException]
+
+2017-01-26T23:10:35+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Db\Adapter\Driver\Pdo\Statement.php:244 Statement could not be executed (42P01 - 7 - ERROR:  relation "tps.SPPBPIB" does not exist
+LINE 1: ...L_AWB", "a"."IDPERUSAHAAN" AS "IDPERUSAHAAN" FROM "tps"."SPP...
+                                                             ^) (0) [Zend\Db\Adapter\Exception\InvalidQueryException]
+
+2017-01-26T23:10:35+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Db\Adapter\Driver\Pdo\Statement.php:239 SQLSTATE[42P01]: Undefined table: 7 ERROR:  relation "tps.SPPBPIB" does not exist
+LINE 1: ...L_AWB", "a"."IDPERUSAHAAN" AS "IDPERUSAHAAN" FROM "tps"."SPP...
+                                                             ^ (42) [PDOException]
+

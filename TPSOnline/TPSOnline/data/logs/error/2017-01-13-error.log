@@ -1,0 +1,9 @@
+2017-01-13T23:16:12+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Soap\Client\Common.php:37 SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://tpsonline.beacukai.go.id/tps/service.asmx?WSDL' : failed to load external entity "https://tpsonline.beacukai.go.id/tps/service.asmx?WSDL"
+ (0) [SoapFault]
+
+2017-01-13T23:20:35+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Soap\Client\Common.php:37 SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://tpsonline.beacukai.go.id/tps/service.asmx?WSDL' : failed to load external entity "https://tpsonline.beacukai.go.id/tps/service.asmx?WSDL"
+ (0) [SoapFault]
+
+2017-01-13T23:27:00+07:00 CRIT (2): D:\SYSTEM\Core\ZF2\library\Zend\Soap\Client\Common.php:37 SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://tpsonline.beacukai.go.id/tps/service.asmx?WSDL&op=CoCoCont_Tes' : failed to load external entity "https://tpsonline.beacukai.go.id/tps/service.asmx?WSDL&op=CoCoCont_Tes"
+ (0) [SoapFault]
+

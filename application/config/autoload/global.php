@@ -13,7 +13,7 @@
 
 return array(
     'db' => array(	'driver' 		=> 'Pdo',
-        			'dsn' 			=> 'pgsql:host=localhost;port=5432;dbname=titaninfra',
+        			'dsn' 			=> 'pgsql:host=localhost;port=5432;dbname=Titaninfra',
         			'username' 		=> 'devel',
         			'password' 		=> 'devel',
         			

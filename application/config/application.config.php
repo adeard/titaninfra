@@ -9,11 +9,7 @@ return array(
 		'Auth',
 		'Main',
 		'Dashboard',
-		'Admin',
-		'Penerimaan',
-		'Pengiriman',
-		'Dokumen',
-		'Dispatch'
+		'Admin'
     ),
     'module_listener_options' => array(
         'config_glob_paths'    => array(

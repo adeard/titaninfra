@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<string xmlns="http://services.beacukai.go.id/">
+	<DOCUMENT>
+	<RESPONPLP>
+		<HEADER>
+			<KD_KANTOR></KD_KANTOR>
+			<KD_TPS></KD_TPS>
+			<REF_NUMBER></REF_NUMBER>
+		</HEADER>
+		<DETIL>
+			<DITERIMA>
+				<NO_PLP></NO_PLP>
+				<TGL_PLP></TGL_PLP>
+				<POS>
+					<NO_POS></NO_POS>
+				</POS>
+			</DITERIMA>
+			<DITOLAK>
+				<POS>
+					<NO_POS></NO_POS>
+				</POS>
+			</DITOLAK>
+		</DETIL>
+	</RESPONPLP>
+	</DOCUMENT>
+</string>

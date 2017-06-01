@@ -14,7 +14,9 @@ use Admin\Model\UserTable,
 	Admin\Media\Model\ImageTable,
 	Admin\Model\ProfileTable,
 	Admin\Model\ActivityTable,
-	Admin\Model\PerusahaanTable;
+	Admin\Model\PerusahaanTable,
+	Admin\Model\TargetTable,
+	Admin\Model\VehicleTable;
 
 class Module
 {
@@ -83,6 +85,20 @@ class Module
 				'Admin\Model\PerusahaanTable' =>  function($sm) {
 					$dbAdapter = $sm->get('DbAdapter');
 					$table = new PerusahaanTable($dbAdapter);
+					return $table;
+				},
+			
+				/** TARGET */
+				'Admin\Model\TargetTable' =>  function($sm) {
+					$dbAdapter = $sm->get('DbAdapter');
+					$table = new TargetTable($dbAdapter);
+					return $table;
+				},
+			
+				/** VEHICLE */
+				'Admin\Model\VehicleTable' =>  function($sm) {
+					$dbAdapter = $sm->get('DbAdapter');
+					$table = new VehicleTable($dbAdapter);
 					return $table;
 				},
 				

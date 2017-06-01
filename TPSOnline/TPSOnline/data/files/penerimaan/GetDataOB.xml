@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<string xmlns="http://services.beacukai.go.id/">
+	<DOCUMENT>
+		<OB>
+			<KD_DOK></KD_DOK>
+			<TPS_ASAL> </TPS_ASAL>
+			<NM_ANGKUT> </NM_ANGKUT>
+			<NO_VOY_FLIGHT></NO_VOY_FLIGHT>
+			<CALL_SIGN> </CALL_SIGN>
+			<TGL_TIBA></TGL_TIBA>
+			<GUDANG_TUJUAN></GUDANG_TUJUAN>
+			<NO_CONT> </NO_CONT>
+			<UK_CONT></UK_CONT>
+			<NO_SEGEL></NO_SEGEL>
+			<JNS_CONT> </JNS_CONT>
+			<NO_A11></NO_A11>
+			<TGL_A11></TGL_A11>
+			<NO_BL_AWB></NO_BL_AWB>
+			<TGL_BL_AWB></TGL_BL_AWB>
+			<NO_MASTER_BL_AWB></NO_MASTER_BL_AWB>
+			<TGL_MASTER_BL_AWB></TGL_MASTER_BL_AWB>
+			<ID_CONSIGNEE></ID_CONSIGNEE>
+			<CONSIGNEE></CONSIGNEE>
+			<BRUTO></BRUTO>
+			<NO_BC11></NO_BC11>
+			<TGL_BC11></TGL_BC11>
+			<NO_POS_BC11></NO_POS_BC11>
+			<ISO_CODE></ISO_CODE>
+			<PEL_MUAT> </PEL_MUAT>
+			<PEL_TRANSIT></PEL_TRANSIT>
+			<PEL_BONGKAR> </PEL_BONGKAR>
+		</OB>
+	</DOCUMENT>
+</string>

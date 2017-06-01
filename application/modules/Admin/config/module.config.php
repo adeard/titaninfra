@@ -16,6 +16,8 @@ return array(
 			'Admin\Controller\Profile' 		=> 'Admin\Controller\ProfileController',
 			'Admin\Controller\Activity' 	=> 'Admin\Controller\ActivityController',
 			'Admin\Controller\Perusahaan' 	=> 'Admin\Controller\PerusahaanController',
+			'Admin\Controller\Target' 		=> 'Admin\Controller\TargetController',
+			'Admin\Controller\Vehicle' 		=> 'Admin\Controller\VehicleController',
         ),
     ),
 
@@ -123,6 +125,40 @@ return array(
                     ),
                 ),
             ),
+	
+			/** BEGIN TARGET */
+            'admin/target' => array(
+                'type'    => 'segment',
+                'options' => array(
+                    'route'    => '[/:lang]/admin/target[/[:action]][/][:id]',
+                    'constraints' => array(
+                        'lang'   => '[a-z]{2}(-[A-Z]{2}){0,1}',
+                        'action' => '[a-zA-Z][a-zA-Z0-9_-]*',
+                        'id'     => '[0-9]+',
+                    ),
+                    'defaults' => array(
+                        'controller' => 'Admin\Controller\Target',
+                        'action'     => 'list',
+                    ),
+                ),
+            ),
+	
+			/** BEGIN VEHICLE */
+            'admin/vehicle' => array(
+                'type'    => 'segment',
+                'options' => array(
+                    'route'    => '[/:lang]/admin/vehicle[/[:action]][/][:id]',
+                    'constraints' => array(
+                        'lang'   => '[a-z]{2}(-[A-Z]{2}){0,1}',
+                        'action' => '[a-zA-Z][a-zA-Z0-9_-]*',
+                        'id'     => '[0-9]+',
+                    ),
+                    'defaults' => array(
+                        'controller' => 'Admin\Controller\Vehicle',
+                        'action'     => 'list',
+                    ),
+                ),
+            ),
 			
         ),
     ),
@@ -157,6 +193,12 @@ return array(
 			'admin/perusahaan/list' => __DIR__ . '/../../../view/'.VIEW_THEMES.'/Admin/Admin/Perusahaan/List'.TPLEXT,
 			'admin/perusahaan/add'  => __DIR__ . '/../../../view/'.VIEW_THEMES.'/Admin/Admin/Perusahaan/Add'.TPLEXT,
 			'admin/perusahaan/edit' => __DIR__ . '/../../../view/'.VIEW_THEMES.'/Admin/Admin/Perusahaan/Edit'.TPLEXT,
+	
+			/** TARGET */
+			'admin/target/list' 	=> __DIR__ . '/../../../view/'.VIEW_THEMES.'/Admin/Admin/Target/List'.TPLEXT,
+	
+			/** VEHICLE */
+			'admin/vehicle/list' 	=> __DIR__ . '/../../../view/'.VIEW_THEMES.'/Admin/Admin/Vehicle/List'.TPLEXT,
 			
 		),
         'template_path_stack' => array(

@@ -1,0 +1,3 @@
+2017-01-26T23:10:03+07:00 INFO (6): admin -- 127.0.0.1 -- Mozilla/5.0 (Windows NT 10.0; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0 -- 51642 -- POST -- /auth/authenticate -- e2753ae2ee08bf55c2c382fd60f6d31dac53589918e1a0ce226ed134e4dafaf7PNUlJfxgsp/VIGsLqHwM9guZFkUiN+4PRF/Cnu2y0Eo= -- login -- success
+2017-01-26T23:12:09+07:00 INFO (6): admin -- 127.0.0.1 -- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393 -- 51748 -- POST -- /auth/authenticate -- e2753ae2ee08bf55c2c382fd60f6d31dac53589918e1a0ce226ed134e4dafaf7PNUlJfxgsp/VIGsLqHwM9guZFkUiN+4PRF/Cnu2y0Eo= -- login -- success
+2017-01-26T23:17:37+07:00 INFO (6): admin -- 127.0.0.1 -- logout -- success
