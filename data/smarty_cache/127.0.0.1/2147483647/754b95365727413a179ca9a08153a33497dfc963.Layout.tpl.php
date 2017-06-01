@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.30, created on 2017-06-02 00:01:34
+/* Smarty version 3.1.30, created on 2017-06-02 00:11:14
   from "C:\xampp\htdocs\TPSOnline\application\view\default\Layout\Layout.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_5930486ec0ac64_72926200',
+  'unifunc' => 'content_59304ab2e8d0a7_93179715',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 0,
 ),true)) {
-function content_5930486ec0ac64_72926200 (Smarty_Internal_Template $_smarty_tpl) {
+function content_59304ab2e8d0a7_93179715 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!-- INITIALISATION PATH THEME -->
 <!-- END INITIALISATION PATH THEME -->
@@ -893,6 +893,14 @@ jQuery(document).ready(function() {
                                 <td align="center"><b>115</b></td>
                             </tr>
                         </table>
+                    </div>
+                    <div>
+                        <br>
+                        <b>Legend:</b><br>
+                        <button type="button" name="button" class="btn btn-sm" style="background-color:#FF0000"></button> Average Speed 0 - 15 Kmph <br>
+                        <button type="button" name="button" class="btn btn-sm" style="background-color:#F7FE2E"></button> Average Speed 16 - 30 Kmph
+                        <br>
+                        <button type="button" name="button" class="btn btn-sm" style="background-color:#04D215"></button> Average Speed >= 31 Kmph
                     </div>
 				</div>
 			</div>

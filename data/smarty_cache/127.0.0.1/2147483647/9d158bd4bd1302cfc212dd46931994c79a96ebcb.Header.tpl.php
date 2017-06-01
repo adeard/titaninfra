@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.30, created on 2017-06-02 00:01:34
+/* Smarty version 3.1.30, created on 2017-06-02 00:11:14
   from "C:\xampp\htdocs\TPSOnline\application\view\default\Layout\Header.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_5930486eadb2c4_78744098',
+  'unifunc' => 'content_59304ab2d81de3_50822043',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 0,
 ),true)) {
-function content_5930486eadb2c4_78744098 (Smarty_Internal_Template $_smarty_tpl) {
+function content_59304ab2d81de3_50822043 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!-- BEGIN HEADER -->
 <div class="page-header navbar navbar-fixed-top">

@@ -570,6 +570,14 @@ jQuery(document).ready(function() {
                             </tr>
                         </table>
                     </div>
+                    <div>
+                        <br>
+                        <b>Legend:</b><br>
+                        <button type="button" name="button" class="btn btn-sm" style="background-color:#FF0000"></button> Average Speed 0 - 15 Kmph <br>
+                        <button type="button" name="button" class="btn btn-sm" style="background-color:#F7FE2E"></button> Average Speed 16 - 30 Kmph
+                        <br>
+                        <button type="button" name="button" class="btn btn-sm" style="background-color:#04D215"></button> Average Speed >= 31 Kmph
+                    </div>
 				</div>
 			</div>
 			
